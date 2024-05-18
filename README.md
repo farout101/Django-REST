@@ -1,6 +1,6 @@
 # Django REST API Test Project
 
-Welcome to the Django REST API Test Project! This project is a simple yet comprehensive setup to test and explore the capabilities of Django's REST framework. It provides a foundation for creating and testing RESTful APIs with Django, enabling you to experiment with various endpoints, data models, and authentication methods.
+This project is a simple yet comprehensive setup to test and explore the capabilities of Django's REST framework.
 
 ## Features
 
