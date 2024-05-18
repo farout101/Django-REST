@@ -11,8 +11,11 @@ Welcome to the Django REST API Test Project! This project is a simple yet compre
 1. **Clone the Repository:**
    ```bash
    mkdir -p ~/dev/drf
+   
    python -m venv venv
+   
    venv/Scripts/Activate.bat (for cmd)
    venv/Scripts/Activate.ps1 (for powershell)
+   
    git clone https://github.com/farout101/Django-REST.gitdjango-rest-api-test.git
    ```
