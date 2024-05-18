@@ -8,6 +8,7 @@ Welcome to the Django REST API Test Project! This project is a simple yet compre
 - **Sample Endpoints:** Predefined routes to demonstrate CRUD operations.
 - **Authentication:** Basic setup for testing token-based authentication.
 - **Testing Suite:** Built-in tests to ensure API endpoints function correctly.
+- In Development
 
 ## Installation
 
