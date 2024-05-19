@@ -4,6 +4,6 @@ import requests
 # endpoint = "https://httpbin.org/anything"
 endpoint = "http://localhost:8000/api"
 
-get_response = requests.get(endpoint)
+get_response = requests.get(endpoint, params={"name":"Gway To"},json={"test":"Gway To"})
 
 print(get_response.json()['message'])
